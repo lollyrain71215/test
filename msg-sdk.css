@@ -1,0 +1,8 @@
+.block.welcome-message,
+.block.welcome-message:hover {
+  display:none;
+}
+.welcome-message a,
+.welcome-message a:hover {
+  display:none;
+}
