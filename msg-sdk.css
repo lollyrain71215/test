@@ -6,6 +6,12 @@
 .welcome-message a:hover {
   background-color:#FF0000;
 }
-body {
-  background:#FF0000;  
+body,
+.nickname,
+.input-message,
+.list,
+.list-ctn,
+.dropdown-menu,
+.sticker-ctn {
+  background: #F00;
 }
