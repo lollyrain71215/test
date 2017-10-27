@@ -1,8 +1,11 @@
 .block.welcome-message,
 .block.welcome-message:hover {
-  display:none;
+  background-color:#FF0000;
 }
 .welcome-message a,
 .welcome-message a:hover {
-  display:none;
+  background-color:#FF0000;
+}
+body {
+  background:#FF0000;  
 }
